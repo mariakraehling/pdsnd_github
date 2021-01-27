@@ -13,3 +13,6 @@ chicago.csv
 new_york_city.csv
 
 washington.csv
+
+### Credits
+This project arised out of the nanodegree program "Programming for Data Science with Python" by Udacity.
